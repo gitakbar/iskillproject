@@ -1,0 +1,3 @@
+i
+
+this is my script for making automation...
